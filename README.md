@@ -24,11 +24,11 @@ func main() {
 
 ## Conversion highlights
 
-* As brief as posible
+#### As brief as posible
 - "lẻ" instead of "linh"
 - "hai lăm" instead of "hai mươi lăm"
 - "ba tư" instead of "ba mươi tư"
 
-* Numeric range:
+#### Numeric range:
 - Int64
 - Float64
