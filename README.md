@@ -14,10 +14,10 @@ import (
 )
 
 func main() {
-	fmt.Println("%v >>> %s", 1234567890, num2vn.Int2vn(1234567890))
+	fmt.Println("%v >>> %s", 1234567890, num2vn.Int2Vn(1234567890))
 	// 1234567890 >>> Một tỷ hai trăm ba tư triệu năm trăm sáu bảy nghìn tám trăm chín mươi
 
-	fmt.Println("%v >>> %s", 12345.67890, num2vn.Float2vn(12345.67890))
+	fmt.Println("%v >>> %s", 12345.67890, num2vn.Float2Vn(12345.67890))
 	// 12345.67890 >>> Mười hai nghìn ba trăm bốn lăm phẩy sáu nghìn bảy trăm tám chín
 }
 ```
