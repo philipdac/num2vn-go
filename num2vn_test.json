@@ -1,0 +1,68 @@
+{
+  "TestData": [
+    {
+      "Number": "0",
+      "VnStr": "Không"
+    },
+    {
+      "Number": "0.0134509",
+      "VnStr": "Không phẩy không một trăm ba tư nghìn năm trăm lẻ chín"
+    },
+    {
+      "Number": "-0.002005",
+      "VnStr": "Âm không phẩy không không hai nghìn không trăm lẻ năm"
+    },
+    {
+      "Number": "11.306789",
+      "VnStr": "Mười một phẩy ba trăm lẻ sáu nghìn bảy trăm tám chín"
+    },
+    {
+      "Number": "10123.450705",
+      "VnStr": "Mười nghìn một trăm hai ba phẩy bốn trăm năm mươi nghìn bảy trăm lẻ năm"
+    },
+    {
+      "Number": "4095.999755859",
+      "VnStr": "Bốn nghìn không trăm chín lăm phẩy chín trăm chín chín triệu bảy trăm năm lăm nghìn tám trăm năm chín"
+    },
+    {
+      "Number": "45 785",
+      "VnStr": "Bốn lăm nghìn bảy trăm tám lăm"
+    },
+    {
+      "Number": "-306 798",
+      "VnStr": "Âm ba trăm lẻ sáu nghìn bảy trăm chín tám"
+    },
+    {
+      "Number": "1 070 005",
+      "VnStr": "Một triệu không trăm bảy mươi nghìn không trăm lẻ năm"
+    },
+    {
+      "Number": "-3 045 070",
+      "VnStr": "Âm ba triệu không trăm bốn lăm nghìn không trăm bảy mươi"
+    },
+    {
+      "Number": "405 680 705",
+      "VnStr": "Bốn trăm lẻ năm triệu sáu trăm tám mươi nghìn bảy trăm lẻ năm"
+    },
+    {
+      "Number": "10 123 450 705",
+      "VnStr": "Mười tỷ một trăm hai ba triệu bốn trăm năm mươi nghìn bảy trăm lẻ năm"
+    },
+    {
+      "Number": "405 123 450 705",
+      "VnStr": "Bốn trăm lẻ năm tỷ một trăm hai ba triệu bốn trăm năm mươi nghìn bảy trăm lẻ năm"
+    },
+    {
+      "Number": "21 405 123 450 705",
+      "VnStr": "Hai mốt nghìn bốn trăm lẻ năm tỷ một trăm hai ba triệu bốn trăm năm mươi nghìn bảy trăm lẻ năm"
+    },
+    {
+      "Number": "67 821 405 123 450 705",
+      "VnStr": "Sáu bảy triệu tám trăm hai mốt nghìn bốn trăm lẻ năm tỷ một trăm hai ba triệu bốn trăm năm mươi nghìn bảy trăm lẻ năm"
+    },
+    {
+      "Number": "9 223 372 036 854 775 807",
+      "VnStr": "Chín tỷ hai trăm hai ba triệu ba trăm bảy hai nghìn không trăm ba sáu tỷ tám trăm năm tư triệu bảy trăm bảy lăm nghìn tám trăm lẻ bảy"
+    }
+  ]
+}
